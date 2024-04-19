@@ -1,4 +1,4 @@
-# Google Capstone Project 
+# Google Data Analytics Capstone Project 
 
 I analyzed a dataset using R for a company, Cyclistic, a bike sharing company in Chicago. I created a dashboard showing how annual members and casual riders use Cyclistic bikes differently. I also provided marketing strategies to convert casual riders to annual members. 
 
